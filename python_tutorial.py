@@ -3,7 +3,8 @@
 #  Lesson 1 = Introduction to Programming (print, comments, input/output)
 #  Lesson 2 = Basic Syntax (variables, data types, if-else, loops)
 #  Lesson 3 = Arithmetic Operators (arithmetic, comparison, logical)
-#  Lesson 4 = Quiz, Lesson 5 = Exit
+#  Lesson 4 = Quiz, 
+#           = Exit
 # ==========================================================
 
 running = True                      # controls the main menu loop
